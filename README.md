@@ -94,15 +94,6 @@
 </tr>
 </table>
 
-<h2>Consistency signal</h2>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=sayginsaman&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F148507000%3Fu%3D875c0ad60859cd06d205bc32566a25359dc46e5a%26v%3D4&v=recruiter-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=sayginsaman&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F148507000%3Fu%3D875c0ad60859cd06d205bc32566a25359dc46e5a%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Saygin D. Saman contribution activity" />
-</picture>
-</p>
-
 <hr />
 
 <table width="100%">
