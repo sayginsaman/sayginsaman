@@ -30,24 +30,6 @@
 
 <p><sub>Founder &amp; CEO @Vixentio | AI Engineer @S3M-Security | Building intelligent systems at the intersection of AI, cybersecurity, and software engineer</sub></p>
 
-<h2>Proof at a glance</h2>
-
-<table width="100%">
-<tr>
-<td width="25%" align="center"><strong>12</strong><br /><sub>Repositories</sub></td>
-<td width="25%" align="center"><strong>17</strong><br /><sub>Stars</sub></td>
-<td width="25%" align="center"><strong>390</strong><br /><sub>Contributions</sub></td>
-<td width="25%" align="center"><strong>4</strong><br /><sub>Followers</sub></td>
-</tr>
-</table>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=sayginsaman&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F148507000%3Fu%3D875c0ad60859cd06d205bc32566a25359dc46e5a%26v%3D4&v=recruiter-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=sayginsaman&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F148507000%3Fu%3D875c0ad60859cd06d205bc32566a25359dc46e5a%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Saygin D. Saman GitHub proof metrics" />
-</picture>
-</p>
-
 <h2>Selected work</h2>
 
 <table width="100%">
