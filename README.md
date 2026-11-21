@@ -74,5 +74,3 @@
 <td width="38%" valign="middle" align="right"><a href="https://github.com/sayginsaman">GitHub</a><br /><a href="https://vixentio.ai">Website</a></td>
 </tr>
 </table>
-
-<p align="center"><sub>Saygin D. Saman · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
