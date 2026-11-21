@@ -7,7 +7,7 @@
 <h1>Saygin D. Saman</h1>
 <h2>Backend and AI Engineer</h2>
 <p>Founder &amp; CEO @Vixentio | AI Engineer @S3M-Security | Building intelligent systems at the intersection of AI, cybersecurity, and software engineer</p>
-<p><strong>● Building and sharing work in public</strong></p>
+<p><strong>Building and sharing work in public</strong></p>
 <p><sub>Based in Aventura, FL · Building at @Vixentio</sub></p>
 <p><a href="https://github.com/sayginsaman">GitHub</a> &nbsp;·&nbsp; <a href="https://vixentio.ai">Website</a></p>
 </td>
