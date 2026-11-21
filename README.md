@@ -9,7 +9,7 @@
 <p>Founder &amp; CEO @Vixentio | AI Engineer @S3M-Security | Building intelligent systems at the intersection of AI, cybersecurity, and software engineer</p>
 <p><strong>Building and sharing work in public</strong></p>
 <p><sub>Based in Miami, FL · Building at @Vixentio</sub></p>
-<p><a href="https://github.com/sayginsaman" target="_blank" rel="noopener noreferrer">GitHub</a> &nbsp;·&nbsp; <a href="https://vixentio.ai" target="_blank" rel="noopener noreferrer">Website</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/sayginsaman" target="_blank" rel="noopener noreferrer">LinkedIn</a> &nbsp;·&nbsp; <a href="https://x.com/saygindsaman" target="_blank" rel="noopener noreferrer">X</a></p>
+<p><a href="https://github.com/sayginsaman" target="_blank" rel="noopener noreferrer">GitHub</a> &nbsp;·&nbsp; <a href="https://vixentio.ai" target="_blank">Website</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/sayginsaman" target="_blank" rel="noopener noreferrer">LinkedIn</a> &nbsp;·&nbsp; <a href="https://x.com/saygindsaman" target="_blank" rel="noopener noreferrer">X</a></p>
 </td>
 <td width="36%" valign="middle" align="center">
 <img src="https://avatars.githubusercontent.com/u/148507000?u=875c0ad60859cd06d205bc32566a25359dc46e5a&amp;v=4" width="180" alt="Saygin D. Saman GitHub avatar" />
