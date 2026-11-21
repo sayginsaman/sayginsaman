@@ -1,10 +1,115 @@
-# 💫 About Me
-🔭 I'm building Vixentio (https://vixentio.ai), a multiplayer coding environment where engineering teams and AI coding agents build software together, S3M Security's AI Assistant Sami and Zero Trust platform, agentic workflows and tools/skills for Claude Code and Codex, plus music apps.<br><br>👯 I'm looking to collaborate on open source security tooling, AI Automations, Claude Code skills and agent workflows.<br><br>🌱 I'm currently learning offensive security and penetration testing, ROS2, Machine Learning, and Artificial Intelligence.<br><br>💬 Ask me about NAC and Zero Trust architecture, multi-agent orchestration with Claude Code, Vite module isolation, Supabase, or why every constant in my repos lives in a config file.<br><br>⚡ Fun fact: I run a AI Automation company, compete in VEX Robotics on team 70260A, and I still consider the em dash my most persistent security threat.
+<div align="center">
 
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · sayginsaman</sub></p>
+<h1>Saygin D. Saman</h1>
+<h2>Backend and AI Engineer</h2>
+<p>Founder &amp; CEO @Vixentio | AI Engineer @S3M-Security | Building intelligent systems at the intersection of AI, cybersecurity, and software engineer</p>
+<p><strong>● Building and sharing work in public</strong></p>
+<p><sub>Based in Aventura, FL · Building at @Vixentio</sub></p>
+<p><a href="https://github.com/sayginsaman">GitHub</a> &nbsp;·&nbsp; <a href="https://vixentio.ai">Website</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/148507000?u=875c0ad60859cd06d205bc32566a25359dc46e5a&amp;v=4" width="180" alt="Saygin D. Saman GitHub avatar" />
+</td>
+</tr>
+</table>
+</div>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white) s![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white) ![Uber](https://img.shields.io/badge/Uber-%23000000.svg?style=for-the-badge&logo=Uber&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
----
-[![](https://komarev.com/ghpvc/?username=sayginsaman&icon=0&color=0)](https://visitcount.itsvg.in)
+<h2>What teams can evaluate quickly</h2>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Backend or systems engineer · C++ · Python · Makefile</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>12 repositories · 17 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>390 contributions · 27 active days</p></td>
+</tr>
+</table>
+
+<p><sub>Founder &amp; CEO @Vixentio | AI Engineer @S3M-Security | Building intelligent systems at the intersection of AI, cybersecurity, and software engineer</sub></p>
+
+<h2>Proof at a glance</h2>
+
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>12</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>17</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>390</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>4</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=sayginsaman&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F148507000%3Fu%3D875c0ad60859cd06d205bc32566a25359dc46e5a%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=sayginsaman&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F148507000%3Fu%3D875c0ad60859cd06d205bc32566a25359dc46e5a%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Saygin D. Saman GitHub proof metrics" />
+</picture>
+</p>
+
+<h2>Selected work</h2>
+
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=sayginsaman&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F148507000%3Fu%3D875c0ad60859cd06d205bc32566a25359dc46e5a%26v%3D4&repos=sayginsaman%2Frabik%2Csayginsaman%2FTracehollow%2Csayginsaman%2Fccbar%2Csayginsaman%2FTrackLight&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=sayginsaman&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F148507000%3Fu%3D875c0ad60859cd06d205bc32566a25359dc46e5a%26v%3D4&repos=sayginsaman%2Frabik%2Csayginsaman%2FTracehollow%2Csayginsaman%2Fccbar%2Csayginsaman%2FTrackLight&v=recruiter-projects-1&mode=dark" width="100%" alt="Saygin D. Saman selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/sayginsaman/rabik">rabik</a></h3>
+<p>Rabik: a Mac assistant you talk to. Hold Control+Option+Space and ask.</p>
+<p><sub>Python · ⭐ 2 · 🍴 0</sub></p>
+<p><a href="https://github.com/sayginsaman/rabik">Read the repository →</a></p>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/sayginsaman/Tracehollow">Tracehollow</a></h3><p>A self-hosted OSINT investigation workspace: cases and evidence with provenance, public-source collection in isolated containers, and local-model answ</p><p><sub>Python · ⭐ 1</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/sayginsaman/ccbar">ccbar</a></h3><p>A fast, single-line status bar for Claude Code. Last-prompt tokens, API-equivalent cost, and session/weekly/per-model usage limits at a glance.</p><p><sub>Go · ⭐ 3</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/sayginsaman/TrackLight">TrackLight</a></h3><p>A small floating player that shows what Spotify is playing, and gets out of the way when it isn't. macOS and Windows, no Spotify login required.</p><p><sub>TypeScript · ⭐ 2</sub></p></td>
+</tr>
+</table>
+
+<h2>Technical toolkit</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=sayginsaman&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F148507000%3Fu%3D875c0ad60859cd06d205bc32566a25359dc46e5a%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=sayginsaman&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F148507000%3Fu%3D875c0ad60859cd06d205bc32566a25359dc46e5a%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Saygin D. Saman technology stack" />
+</picture>
+</p>
+
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>C++</strong><br /><sub>29% of public code</sub></td>
+<td width="20%" align="center"><strong>Python</strong><br /><sub>25% of public code</sub></td>
+<td width="20%" align="center"><strong>Makefile</strong><br /><sub>22% of public code</sub></td>
+<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>7% of public code</sub></td>
+<td width="20%" align="center"><strong>Swift</strong><br /><sub>6% of public code</sub></td>
+</tr>
+</table>
+
+<h2>Consistency signal</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=sayginsaman&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F148507000%3Fu%3D875c0ad60859cd06d205bc32566a25359dc46e5a%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=sayginsaman&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F148507000%3Fu%3D875c0ad60859cd06d205bc32566a25359dc46e5a%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Saygin D. Saman contribution activity" />
+</picture>
+</p>
+
+<hr />
+
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/sayginsaman">GitHub</a><br /><a href="https://vixentio.ai">Website</a></td>
+</tr>
+</table>
+
+<p align="center"><sub>Saygin D. Saman · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
