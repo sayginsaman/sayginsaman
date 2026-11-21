@@ -18,16 +18,6 @@
 </table>
 </div>
 
-<h2>What teams can evaluate quickly</h2>
-
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Backend or AI engineer · C++ · Python · Makefile</p></td>
-<td width="33%" valign="top"><h3>Public proof</h3><p>12 repositories · 17 stars</p></td>
-<td width="33%" valign="top"><h3>Momentum</h3><p>390 contributions · 27 active days</p></td>
-</tr>
-</table>
-
 <p><sub>Founder &amp; CEO @Vixentio | AI Engineer @S3M-Security | Building intelligent systems at the intersection of AI, cybersecurity, and software engineer</sub></p>
 
 <h2>Selected work</h2>
